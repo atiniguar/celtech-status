@@ -8,7 +8,7 @@ sites:
   - name: Pretups
     url: https://pretups.celtech.com.gt/
   - name: Altoque
-    url: https://altoque.celtech.com.gt/index.xhtml
+    url: https://altoque.celtech.com.gt/
   - name: FEL
     url: https://fel.celtech.com.gt/index.jsp
 
@@ -25,7 +25,7 @@ status-website:
   introTitle: "**Celtech Status** Es un monitor de Estados de nuestros servicios en tiempo real."
   introMessage: Con la ayuda de esta herramienta podemos verificar cada portal en **Tiempo Real** y detectar incovenientes.  [**Esta herramienta esta impulsado por GitHub y Upptime**](https://github.com/upptime/upptime)
   navbar:
-    - title: Ver Estadp
+    - title: Ver Estado
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
