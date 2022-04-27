@@ -4,10 +4,10 @@
     "url": "https://portalkits.celtech.com.gt/",
     "icon": "https://favicons.githubusercontent.com/portalkits.celtech.com.gt",
     "slug": "portal-kits",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
@@ -15,14 +15,16 @@
     "timeWeek": 798,
     "timeMonth": 812,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 1
+    }
   },
   {
     "name": "Pretups",
     "url": "https://pretups.celtech.com.gt/",
     "icon": "https://favicons.githubusercontent.com/pretups.celtech.com.gt",
     "slug": "pretups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 587,
     "timeMonth": 532,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   },
   {
     "name": "Altoque",
