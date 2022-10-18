@@ -11,6 +11,10 @@ sites:
     url: https://altoque.celtech.com.gt/
   - name: FEL
     url: https://fel.celtech.com.gt/index.jsp
+  - name: AuthCeltech
+    url: https://auth.celtech.com.gt/
+  - name: WTTX
+    url: https://wttx.celtech.com.gt/
 
 assignees:
 - atiniguar
