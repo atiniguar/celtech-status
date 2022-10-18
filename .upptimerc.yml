@@ -12,9 +12,9 @@ sites:
   - name: FEL
     url: https://fel.celtech.com.gt/index.jsp
   - name: AuthCeltech
-    url: https://auth.celtech.com.gt/
+    url: https://auth.celtech.com.gt/auth/login
   - name: WTTX
-    url: https://wttx.celtech.com.gt/
+    url: https://wttx.celtech.com.gt/auth/login
 
 assignees:
 - atiniguar
