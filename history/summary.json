@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.99%",
-    "time": 844,
-    "timeDay": 407,
-    "timeWeek": 511,
-    "timeMonth": 608,
-    "timeYear": 844,
+    "time": 843,
+    "timeDay": 420,
+    "timeWeek": 503,
+    "timeMonth": 603,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2022-09-25": 156,
       "2022-08-22": 21,
@@ -40,9 +40,9 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.42%",
     "time": 481,
-    "timeDay": 396,
-    "timeWeek": 504,
-    "timeMonth": 476,
+    "timeDay": 392,
+    "timeWeek": 491,
+    "timeMonth": 474,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2022-09-27": 66,
@@ -99,42 +99,42 @@
   },
   {
     "name": "AuthCeltech",
-    "url": "https://auth.celtech.com.gt/",
+    "url": "https://auth.celtech.com.gt/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
     "slug": "auth-celtech",
     "status": "down",
-    "uptime": "3.91%",
-    "uptimeDay": "3.91%",
-    "uptimeWeek": "3.91%",
-    "uptimeMonth": "3.91%",
-    "uptimeYear": "3.91%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 0
+      "2022-10-18": 11
     }
   },
   {
     "name": "WTTX",
-    "url": "https://wttx.celtech.com.gt/",
+    "url": "https://wttx.celtech.com.gt/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/wttx.celtech.com.gt.ico",
     "slug": "wttx",
     "status": "down",
-    "uptime": "7.92%",
-    "uptimeDay": "7.92%",
-    "uptimeWeek": "7.92%",
-    "uptimeMonth": "7.92%",
-    "uptimeYear": "7.92%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 0
+      "2022-10-18": 11
     }
   }
 ]
