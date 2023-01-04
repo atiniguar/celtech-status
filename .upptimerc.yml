@@ -7,6 +7,10 @@ sites:
     url: https://portalkits.celtech.com.gt/
   - name: Pretups
     url: https://pretups.celtech.com.gt/
+  - name: Auth
+    url: https://auth.celtech.com.gt/
+  - name: wttx
+    url: https://wttx.celtech.com.gt/
   - name: Altoque
     url: https://altoque.celtech.com.gt/
   - name: FEL
