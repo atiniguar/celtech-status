@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 764,
-    "timeDay": 543,
-    "timeWeek": 535,
-    "timeMonth": 485,
+    "timeDay": 595,
+    "timeWeek": 547,
+    "timeMonth": 490,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2022-09-25": 156,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 480,
-    "timeDay": 518,
-    "timeWeek": 496,
-    "timeMonth": 457,
+    "timeDay": 575,
+    "timeWeek": 511,
+    "timeMonth": 462,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2022-09-27": 66,
@@ -55,6 +55,47 @@
       "2022-06-28": 23,
       "2022-04-28": 885,
       "2022-04-27": 204
+    }
+  },
+  {
+    "name": "Auth",
+    "url": "https://auth.celtech.com.gt/",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
+    "slug": "auth",
+    "status": "down",
+    "uptime": "14.55%",
+    "uptimeDay": "14.55%",
+    "uptimeWeek": "14.55%",
+    "uptimeMonth": "14.55%",
+    "uptimeYear": "14.55%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
+  },
+  {
+    "name": "wttx",
+    "url": "https://wttx.celtech.com.gt/",
+    "icon": "https://icons.duckduckgo.com/ip3/wttx.celtech.com.gt.ico",
+    "slug": "wttx",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.16%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-10-19": 924,
+      "2022-10-18": 13
     }
   },
   {
@@ -103,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
     "slug": "auth-celtech",
     "status": "down",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
