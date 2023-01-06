@@ -1,7 +1,7 @@
 [
   {
     "name": "PortalKits",
-    "url": "https://portalkits.celtech.com.gt/",
+    "url": "https://portalkits.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/portalkits.celtech.com.gt.ico",
     "slug": "portal-kits",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 763,
-    "timeDay": 542,
-    "timeWeek": 518,
-    "timeMonth": 489,
-    "timeYear": 763,
+    "time": 762,
+    "timeDay": 488,
+    "timeWeek": 510,
+    "timeMonth": 487,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2022-09-25": 156,
       "2022-08-22": 21,
@@ -30,7 +30,7 @@
   },
   {
     "name": "Pretups",
-    "url": "https://pretups.celtech.com.gt/",
+    "url": "https://pretups.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/pretups.celtech.com.gt.ico",
     "slug": "pretups",
     "status": "up",
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 480,
-    "timeDay": 507,
-    "timeWeek": 469,
-    "timeMonth": 454,
+    "timeDay": 435,
+    "timeWeek": 458,
+    "timeMonth": 451,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2022-09-27": 66,
@@ -59,7 +59,7 @@
   },
   {
     "name": "Auth",
-    "url": "https://auth.celtech.com.gt/",
+    "url": "https://auth.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
     "slug": "auth",
     "status": "down",
@@ -74,14 +74,34 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 40,
+      "2023-01-06": 70,
       "2023-01-05": 1440,
       "2023-01-04": 1347
     }
   },
   {
+    "name": "Auth API",
+    "url": "https://auth.celtech.com.gt/v1",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
+    "slug": "auth-api",
+    "status": "down",
+    "uptime": "8.60%",
+    "uptimeDay": "8.60%",
+    "uptimeWeek": "8.60%",
+    "uptimeMonth": "8.60%",
+    "uptimeYear": "8.60%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
+  },
+  {
     "name": "wttx",
-    "url": "https://wttx.celtech.com.gt/",
+    "url": "https://wttx.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/wttx.celtech.com.gt.ico",
     "slug": "wttx",
     "status": "down",
@@ -102,7 +122,7 @@
   },
   {
     "name": "Altoque",
-    "url": "https://altoque.celtech.com.gt/",
+    "url": "https://altoque.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/altoque.celtech.com.gt.ico",
     "slug": "altoque",
     "status": "down",
@@ -122,7 +142,7 @@
   },
   {
     "name": "FEL",
-    "url": "https://fel.celtech.com.gt/index.jsp",
+    "url": "https://fel.celtech.com.gt/",
     "icon": "https://icons.duckduckgo.com/ip3/fel.celtech.com.gt.ico",
     "slug": "fel",
     "status": "down",
