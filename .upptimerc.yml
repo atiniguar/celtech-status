@@ -34,18 +34,12 @@ sites:
     maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Altoque
-    url: https://altoque.celtech.com.gt
+    url: http://altoque.celtech.com.gt:8080/index.xhtml
     __dangerous__insecure: true
   - name: FEL
-    url: https://fel.celtech.com.gt/
+    url: https://fel.celtech.com.gt/index.jsp
     __dangerous__insecure: true
-  - name: AuthCeltech
-    url: https://auth.celtech.com.gt/auth/login
-    __dangerous__disable_verify_host: true
-  - name: WTTX
-    url: https://wttx.celtech.com.gt/auth/login
-    __dangerous__disable_verify_peer: true
-
+  
 assignees:
 - atiniguar
 
