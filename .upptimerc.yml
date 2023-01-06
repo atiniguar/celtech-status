@@ -17,8 +17,11 @@ sites:
       - 302
       - 308
     maxResponseTime: 5000
+    __dangerous__insecure: true
+
   - name: Auth API
     url: https://auth.celtech.com.gt/v1
+    __dangerous__insecure: true
   - name: wttx
     url: https://wttx.celtech.com.gt
     method: GET
@@ -29,14 +32,19 @@ sites:
       - 302
       - 308
     maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: Altoque
     url: https://altoque.celtech.com.gt
+    __dangerous__insecure: true
   - name: FEL
     url: https://fel.celtech.com.gt/
+    __dangerous__insecure: true
   - name: AuthCeltech
     url: https://auth.celtech.com.gt/auth/login
+    __dangerous__disable_verify_host: true
   - name: WTTX
     url: https://wttx.celtech.com.gt/auth/login
+    __dangerous__disable_verify_peer: true
 
 assignees:
 - atiniguar
