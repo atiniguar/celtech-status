@@ -1,20 +1,38 @@
 # Change these first
 owner: atiniguar # Your GitHub organization or username, where this repository lives
 repo: celtech-status # The name of this repository
-
+user-agent: atiniguar
 sites: 
   - name: PortalKits
-    url: https://portalkits.celtech.com.gt/
+    url: https://portalkits.celtech.com.gt
   - name: Pretups
-    url: https://pretups.celtech.com.gt/
+    url: https://pretups.celtech.com.gt
   - name: Auth
-    url: https://auth.celtech.com.gt/
+    url: https://auth.celtech.com.gt
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 308
+    maxResponseTime: 5000
+  - name: Auth API
+    url: https://auth.celtech.com.gt/v1
   - name: wttx
-    url: https://wttx.celtech.com.gt/
+    url: https://wttx.celtech.com.gt
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 308
+    maxResponseTime: 5000
   - name: Altoque
-    url: https://altoque.celtech.com.gt/
+    url: https://altoque.celtech.com.gt
   - name: FEL
-    url: https://fel.celtech.com.gt/index.jsp
+    url: https://fel.celtech.com.gt/
   - name: AuthCeltech
     url: https://auth.celtech.com.gt/auth/login
   - name: WTTX
