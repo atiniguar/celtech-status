@@ -33,6 +33,28 @@ sites:
       - 308
     maxResponseTime: 5000
     __dangerous__insecure: true
+     - name: Shortener API (GO)
+    url: https://go.celtech.com.gt
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 308
+    maxResponseTime: 5000
+    __dangerous__insecure: true    
+    - name: Shortener Dashboard
+    url: https://shortenerdash.celtech.com.gt
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 308
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: Altoque
     url: http://altoque.celtech.com.gt:8080/index.xhtml
     __dangerous__insecure: true
