@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pretups.celtech.com.gt.ico",
     "slug": "pretups",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -184,9 +184,9 @@
     "url": "https://fel.celtech.com.gt/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/fel.celtech.com.gt.ico",
     "slug": "fel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -196,6 +196,7 @@
     "timeMonth": 405,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2023-09-04": 0,
       "2023-06-15": 15
     }
   }
