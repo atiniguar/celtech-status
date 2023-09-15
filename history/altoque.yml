@@ -1,7 +1,7 @@
 url: http://altoque.celtech.com.gt:8080/index.xhtml
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-15T02:49:31.535Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2023-09-15T02:56:39.115Z
 startTime: 2022-02-14T18:31:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
