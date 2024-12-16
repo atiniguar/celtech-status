@@ -70,7 +70,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   #baseUrl: /atiniguar.github.io
-  #baseUrl: atiniguar.github.io
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Celtech Status
   introTitle: "**Celtech Status** Es un monitor de Estados de nuestros servicios en tiempo real."
@@ -78,8 +78,8 @@ status-website:
   navbar:
     - title: Ver Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
