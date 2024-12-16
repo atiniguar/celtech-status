@@ -77,7 +77,7 @@ status-website:
   introMessage: Con la ayuda de esta herramienta podemos verificar cada portal en **Tiempo Real** y detectar incovenientes.  [**Esta herramienta esta impulsado por GitHub y Upptime**](https://github.com/upptime/upptime)
   navbar:
     - title: Ver Estado
-      href: /
+      href: /celtech-status
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
 
