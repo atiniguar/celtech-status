@@ -1,10 +1,10 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "CELTECH STATUS",
-  "short_name": "CELTECH STATUS",
+  "name": "Upptime",
+  "short_name": "Upptime",
   "display": "minimal-ui",
-  "start_url": "/celtech-status/",
+  "start_url": "/",
   "icons": [
     {
       "src": "logo-192.png",
