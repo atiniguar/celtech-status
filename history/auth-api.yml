@@ -1,7 +1,7 @@
 url: https://auth.celtech.com.gt/v1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-27T07:25:42.945Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2025-05-27T12:38:19.951Z
 startTime: 2023-01-06T01:09:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
