@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalkits.celtech.com.gt.ico",
     "slug": "portal-kits",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 548,
-    "timeDay": 575,
+    "timeDay": 480,
     "timeWeek": 516,
-    "timeMonth": 551,
+    "timeMonth": 549,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-05-27": 313
@@ -30,8 +30,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 519,
-    "timeDay": 541,
+    "time": 518,
+    "timeDay": 456,
     "timeWeek": 488,
     "timeMonth": 513,
     "timeYear": 508,
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 471,
-    "timeDay": 567,
-    "timeWeek": 467,
+    "timeDay": 424,
+    "timeWeek": 465,
     "timeMonth": 484,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 84,
-    "timeDay": 85,
-    "timeWeek": 82,
+    "timeDay": 75,
+    "timeWeek": 81,
     "timeMonth": 86,
     "timeYear": 85,
     "dailyMinutesDown": {
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 464,
-    "timeDay": 502,
-    "timeWeek": 442,
-    "timeMonth": 468,
+    "timeDay": 428,
+    "timeWeek": 460,
+    "timeMonth": 467,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-05-27": 313
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 374,
-    "timeDay": 311,
-    "timeWeek": 331,
-    "timeMonth": 370,
+    "timeDay": 362,
+    "timeWeek": 339,
+    "timeMonth": 369,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2025-05-27": 313
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 358,
-    "timeDay": 422,
-    "timeWeek": 350,
-    "timeMonth": 378,
+    "timeDay": 261,
+    "timeWeek": 342,
+    "timeMonth": 374,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2025-05-27": 313
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 355,
-    "timeDay": 298,
-    "timeWeek": 361,
-    "timeMonth": 367,
-    "timeYear": 359,
+    "timeDay": 361,
+    "timeWeek": 357,
+    "timeMonth": 370,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-05-27": 313
     }
@@ -172,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 435,
-    "timeDay": 512,
-    "timeWeek": 442,
-    "timeMonth": 458,
+    "timeDay": 439,
+    "timeWeek": 450,
+    "timeMonth": 461,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-05-27": 313,
