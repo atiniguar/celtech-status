@@ -147,9 +147,9 @@
     "url": "http://altoque.celtech.com.gt:8080/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/altoque.celtech.com.gt.ico",
     "slug": "altoque",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.80%",
@@ -159,6 +159,7 @@
     "timeMonth": 358,
     "timeYear": 360,
     "dailyMinutesDown": {
+      "2025-09-20": 0,
       "2025-09-08": 148,
       "2025-08-31": 592,
       "2025-05-27": 313
