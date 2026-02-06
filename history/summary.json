@@ -25,9 +25,9 @@
     "url": "https://pretups.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/pretups.celtech.com.gt.ico",
     "slug": "pretups",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -37,6 +37,7 @@
     "timeMonth": 1555,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2026-02-06": 0,
       "2025-11-28": 17,
       "2025-05-27": 313
     }
