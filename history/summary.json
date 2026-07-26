@@ -190,13 +190,13 @@
     "url": "http://altoque.celtech.com.gt:8080/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/altoque.celtech.com.gt.ico",
     "slug": "altoque",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.60%",
-    "time": 447,
+    "time": 448,
     "timeDay": 660,
     "timeWeek": 590,
     "timeMonth": 478,
@@ -208,7 +208,8 @@
       "2025-12-03": 17,
       "2026-03-09": 630,
       "2026-05-31": 512,
-      "2026-07-23": 163
+      "2026-07-23": 163,
+      "2026-07-26": 1
     }
   },
   {
@@ -216,9 +217,9 @@
     "url": "https://fel.celtech.com.gt/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/fel.celtech.com.gt.ico",
     "slug": "fel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
@@ -235,7 +236,8 @@
       "2025-12-03": 17,
       "2026-02-07": 135,
       "2026-03-09": 630,
-      "2026-05-31": 512
+      "2026-05-31": 512,
+      "2026-07-26": 0
     }
   }
 ]
