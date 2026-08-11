@@ -134,19 +134,20 @@
     "url": "https://wttx.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/wttx.celtech.com.gt.ico",
     "slug": "wttx",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 652,
-    "timeWeek": 540,
-    "timeMonth": 497,
-    "timeYear": 502,
+    "time": 527,
+    "timeDay": 8251,
+    "timeWeek": 2454,
+    "timeMonth": 977,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-08-21": 17
+      "2025-08-21": 17,
+      "2026-08-11": 1
     }
   },
   {
