@@ -4,13 +4,13 @@
     "url": "https://portalkits.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/portalkits.celtech.com.gt.ico",
     "slug": "portal-kits",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "92.90%",
-    "time": 769,
+    "time": 770,
     "timeDay": 815,
     "timeWeek": 1043,
     "timeMonth": 937,
@@ -43,7 +43,8 @@
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1219,
-      "2026-04-28": 151
+      "2026-04-28": 151,
+      "2026-08-18": 22
     }
   },
   {
@@ -51,12 +52,12 @@
     "url": "https://pretups.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/pretups.celtech.com.gt.ico",
     "slug": "pretups",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.94%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "92.93%",
     "time": 770,
     "timeDay": 795,
     "timeWeek": 1131,
@@ -90,7 +91,8 @@
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
-      "2026-02-07": 1219
+      "2026-02-07": 1219,
+      "2026-08-18": 17
     }
   },
   {
@@ -98,56 +100,61 @@
     "url": "https://auth.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 482,
     "timeWeek": 631,
     "timeMonth": 537,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-18": 12
+    }
   },
   {
     "name": "Auth API",
     "url": "https://auth.celtech.com.gt/v1",
     "icon": "https://icons.duckduckgo.com/ip3/auth.celtech.com.gt.ico",
     "slug": "auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 392,
     "timeWeek": 469,
     "timeMonth": 418,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-18": 8
+    }
   },
   {
     "name": "wttx",
     "url": "https://wttx.celtech.com.gt",
     "icon": "https://icons.duckduckgo.com/ip3/wttx.celtech.com.gt.ico",
     "slug": "wttx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 529,
+    "time": 530,
     "timeDay": 476,
-    "timeWeek": 2308,
+    "timeWeek": 592,
     "timeMonth": 971,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2025-08-21": 17,
-      "2026-08-11": 65
+      "2026-08-11": 65,
+      "2026-08-18": 3
     }
   },
   {
