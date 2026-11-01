@@ -205,17 +205,17 @@
     "url": "http://altoque.celtech.com.gt:8080/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/altoque.celtech.com.gt.ico",
     "slug": "altoque",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
-    "time": 549,
-    "timeDay": 875,
-    "timeWeek": 887,
-    "timeMonth": 860,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.33%",
+    "time": 551,
+    "timeDay": 971,
+    "timeWeek": 910,
+    "timeMonth": 867,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-12-03": 17,
       "2026-03-09": 630,
@@ -224,7 +224,7 @@
       "2026-07-26": 600,
       "2026-08-30": 603,
       "2026-09-27": 611,
-      "2026-11-01": 1
+      "2026-11-01": 404
     }
   },
   {
@@ -233,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fel.celtech.com.gt.ico",
     "slug": "fel",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptime": "99.52%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "98.77%",
     "time": 498,
     "timeDay": 515,
     "timeWeek": 532,
@@ -253,7 +253,7 @@
       "2026-08-30": 1007,
       "2026-09-28": 1315,
       "2026-09-27": 981,
-      "2026-11-01": 0
+      "2026-11-01": 404
     }
   }
 ]
